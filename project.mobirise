@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Vivid-EFX ~ It Doesn't Take a $Million to look it",
-    "currentPage": "index.html",
+    "currentPage": "Web_Dev.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3875,7 +3875,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-17-at-12.06.43-pm-800x359-800x359.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Recruiting Firm",
+                "caption": "<a href=\"https://magellan-ps.com\" target=\"_blank\">Recruiting Firm</a>",
                 "active": false
               },
               {
@@ -3887,7 +3887,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mps-screenshot-800x359-800x359.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Video Commerce Site",
+                "caption": "<a href=\"https://mpsconsultingcorp.com\" target=\"_blank\">Video Commerce Site</a>",
                 "active": false
               },
               {
@@ -3899,7 +3899,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-18-at-6.00.37-pm-800x360-800x360.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Private Shooting Club ~ Members Only",
+                "caption": "<a href=\"https://nsscva.com\" target=\"_blank\">Private Shooting Club ~ Members Only</a>",
                 "active": false
               },
               {
@@ -3911,7 +3911,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-11-24-at-1.32.08-pm-800x359-800x359.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Restaurant Websites ~ With online reservation",
+                "caption": "Restaurant ~ With online reservation",
                 "active": true
               }
             ]
