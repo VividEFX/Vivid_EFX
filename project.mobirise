@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Vivid-EFX ~ It Doesn't Take a $Million to look it",
-    "currentPage": "Web_Dev.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -50,8 +50,8 @@
       "settings": {
         "main": true,
         "title": "Vivid-EFX Home",
-        "meta_descr": "Disabled Veteran Owned and Operated ~ We are dedicated to bringing high quality Videos, Web Development and Graphic Design products to the small business community. Our  motto of \"It doesn't take a $Million to look it\" reflects our passion to price our products to meet every budget. ",
-        "header_custom": "",
+        "meta_descr": "Disabled Veteran Owned and Operated ~ Marketing Videos, Website and Graphic Design for small business ~ It doesn't take a $Million to look it\". ",
+        "header_custom": "<meta name=\"keyords\" content=\"marketing, video, intro, outro, website, veteran, graphic design, video marketing, video template, animation, motion graphics\">\n<meta name=\"description\" content=\"It doesn't take a Million to look it\">\n<meta name=\"author\" content=\"Vivid-EFX\">",
         "footer_custom": "",
         "html_before": ""
       },
@@ -796,9 +796,10 @@
     },
     "Video_Marketing.html": {
       "settings": {
-        "meta_descr": "Disabled Veteran Owned and Operated ~ We are dedicated to bringing high quality Videos, Web Development and Graphic Design products to the small business community. Our  motto of \"It doesn't take a $Million to look it\" reflects our passion to price our products to meet every budget. ",
+        "meta_descr": "Disabled Veteran Owned and Operated ~ Marketing Videos, Website and Graphic Design for small business ~ It doesn't take a $Million to look it\". ",
         "title": "Customized Video for Marketing",
-        "order": 4
+        "order": 4,
+        "header_custom": "<meta name=\"keyords\" content=\"marketing, video, intro, outro, website, veteran, graphic design, video marketing, video template, animation, motion graphics\">\n<meta name=\"description\" content=\"It doesn't take a Million to look it\">\n<meta name=\"author\" content=\"Vivid-EFX\">"
       },
       "components": [
         {
@@ -2015,9 +2016,10 @@
     },
     "Services.html": {
       "settings": {
-        "meta_descr": "Disabled Veteran Owned and Operated ~ We are dedicated to bringing high quality Videos, Web Development and Graphic Design products to the small business community. Our  motto of \"It doesn't take a $Million to look it\" reflects our passion to price our products to meet every budget. ",
+        "meta_descr": "Disabled Veteran Owned and Operated ~ Marketing Videos, Website and Graphic Design for small business ~ It doesn't take a $Million to look it\". ",
         "title": "Services We Provide",
-        "order": 3
+        "order": 3,
+        "header_custom": "<meta name=\"keyords\" content=\"marketing, video, intro, outro, website, veteran, graphic design, video marketing, video template, animation, motion graphics\">\n<meta name=\"description\" content=\"It doesn't take a Million to look it\">\n<meta name=\"author\" content=\"Vivid-EFX\">"
       },
       "components": [
         {
@@ -2672,9 +2674,10 @@
     },
     "Graphic_Design.html": {
       "settings": {
-        "meta_descr": "Disabled Veteran Owned and Operated ~ We are dedicated to bringing high quality Videos, Web Development and Graphic Design products to the small business community. Our  motto of \"It doesn't take a $Million to look it\" reflects our passion to price our products to meet every budget. ",
+        "meta_descr": "Disabled Veteran Owned and Operated ~ Marketing Videos, Website and Graphic Design for small business ~ It doesn't take a $Million to look it\". ",
         "title": "Graphic Design Services",
-        "order": 1
+        "order": 1,
+        "header_custom": "<meta name=\"keyords\" content=\"marketing, video, intro, outro, website, veteran, graphic design, video marketing, video template, animation, motion graphics\">\n<meta name=\"description\" content=\"It doesn't take a Million to look it\">\n<meta name=\"author\" content=\"Vivid-EFX\">"
       },
       "components": [
         {
@@ -3300,9 +3303,10 @@
     },
     "Web_Dev.html": {
       "settings": {
-        "meta_descr": "Disabled Veteran Owned and Operated ~ We are dedicated to bringing high quality Videos, Web Development and Graphic Design products to the small business community. Our  motto of \"It doesn't take a $Million to look it\" reflects our passion to price our products to meet every budget. ",
+        "meta_descr": "Disabled Veteran Owned and Operated ~ Marketing Videos, Website and Graphic Design for small business ~ It doesn't take a $Million to look it\". ",
         "title": "Website Development Services",
-        "order": 2
+        "order": 2,
+        "header_custom": "<meta name=\"keyords\" content=\"marketing, video, intro, outro, website, veteran, graphic design, video marketing, video template, animation, motion graphics\">\n<meta name=\"description\" content=\"It doesn't take a Million to look it\">\n<meta name=\"author\" content=\"Vivid-EFX\">"
       },
       "components": [
         {
@@ -4120,10 +4124,10 @@
     },
     "Store.html": {
       "settings": {
-        "meta_descr": "Disabled Veteran Owned and Operated ~ We are dedicated to bringing high quality Videos, Web Development and Graphic Design products to the small business community. Our  motto of \"It doesn't take a $Million to look it\" reflects our passion to price our products to meet every budget. ",
+        "meta_descr": "Disabled Veteran Owned and Operated ~ Marketing Videos, Website and Graphic Design for small business ~ It doesn't take a $Million to look it\". ",
         "title": "Video Template Storefront ~ Intro, Logo, Live Action and more",
         "order": 5,
-        "header_custom": ""
+        "header_custom": "<meta name=\"keyords\" content=\"marketing, video, intro, outro, website, veteran, graphic design, video marketing, video template, animation, motion graphics\">\n<meta name=\"description\" content=\"It doesn't take a Million to look it\">\n<meta name=\"author\" content=\"Vivid-EFX\">"
       },
       "components": [
         {
