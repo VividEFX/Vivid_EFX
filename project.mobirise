@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Vivid-EFX ~ It Doesn't Take a $Million to look it",
-    "currentPage": "Video_Marketing.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -51,7 +51,7 @@
         "main": true,
         "title": "Vivid-EFX Home",
         "meta_descr": "Disabled Veteran Owned and Operated ~ Marketing Videos, Website and Graphic Design for small business ~ It doesn't take a $Million to look it\". ",
-        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-NHCJ4RZ');</script>\n<!-- End Google Tag Manager -->",
+        "header_custom": "<meta property=\"og:title\" content=\"Welcome to Vivid-EFX.com\">\n<meta property=\"og:url\" content=\"https://vivid-efx.com/index.html\">;\n<meta property=\"og:site_name\" content=\"Vivid-EFX.com\">\n<meta property=\"og:description\" content=\"Disabled Veteran Owned and Operated ~ Marketing Videos, Website and Graphic Design for small business ~ It doesn't take a $Million to look it \">\n<meta property=\"og:image\" content=\" https://vivid-efx.com/assets/images/Vivid-EFX-Screen.png\">;\n<meta property=\"og:image:type\" content=\"image/png\">\n<meta property=\"og:image:width\" content=\"1920\">\n<meta property=\"og:image:height\" content=\"1080\">\n\n<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-NHCJ4RZ');</script>\n<!-- End Google Tag Manager -->",
         "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-NHCJ4RZ\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->",
         "html_before": ""
       },
